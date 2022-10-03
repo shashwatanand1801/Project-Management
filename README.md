@@ -149,7 +149,7 @@ To get a local copy up and running follow these simple example steps.
 
 <!-- Databse -->
 ## Database
-
+We used MySQL as a database for this project. More details can be found here <a href="https://www.mysql.com/">MySQL</a>
 
 
 
