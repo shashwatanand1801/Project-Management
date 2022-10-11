@@ -71,7 +71,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-A professor in the institute offers every semester projects. But it's a hassle for students and professors to connect with the right professor and students for the project. So, here comes the project management system to ease down this process.
+A professor in the institute offers every semester projects. But it's a hassle for students and professors to connect with the right professor and students for the project. So, here comes this solution to smoothen this process.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
