@@ -32,7 +32,7 @@
     <br />
     <a href="https://github.com/shashwatanand1801/Project-Management">View Demo</a>
     ·
-    <a href="https://github.com/shashwatanand1801/Project-Management/issues">Report Bug</a>
+    <a href="https://github.com/shashwatanand1801/Project-Management/issues">Report Bugs</a>
     ·
     <a href="https://github.com/shashwatanand1801/Project-Management/issues">Request Feature</a>
   </p>
